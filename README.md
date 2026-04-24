@@ -4,7 +4,10 @@ An ESP32-based autonomous line follower robot with 10 IR sensors and dual motor 
 
 ## Hardware Configuration
 
-### Sensor Pins (10 IR Sensors)
+## 🖼️ Circuit Diagram
+![Circuit Diagram](./circuit_image.png)
+
+###ensor Pins (10 IR Sensors)
 ```
 pins[0-9]: 34, 35, 32, 33, 25, 26, 27, 14, 12, 13
 ```
